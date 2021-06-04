@@ -1,0 +1,6 @@
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\ArrayOfObject\bin\Debug\Array_of_Object.exe
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\ArrayOfObject\bin\Debug\Array_of_Object.pdb
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\ArrayOfObject\obj\Debug\ArrayOfObject.csprojAssemblyReference.cache
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\ArrayOfObject\obj\Debug\ArrayOfObject.csproj.CoreCompileInputs.cache
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\ArrayOfObject\obj\Debug\Array_of_Object.exe
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\ArrayOfObject\obj\Debug\Array_of_Object.pdb

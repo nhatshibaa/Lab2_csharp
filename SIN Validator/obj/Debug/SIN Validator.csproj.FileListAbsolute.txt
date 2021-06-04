@@ -1,0 +1,6 @@
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\SIN Validator\bin\Debug\SIN_Validator.exe
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\SIN Validator\bin\Debug\SIN_Validator.pdb
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\SIN Validator\obj\Debug\SIN Validator.csprojAssemblyReference.cache
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\SIN Validator\obj\Debug\SIN Validator.csproj.CoreCompileInputs.cache
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\SIN Validator\obj\Debug\SIN_Validator.exe
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\SIN Validator\obj\Debug\SIN_Validator.pdb

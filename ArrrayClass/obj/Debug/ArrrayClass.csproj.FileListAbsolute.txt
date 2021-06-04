@@ -1,0 +1,6 @@
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\ArrrayClass\bin\Debug\ArrrayClass.exe
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\ArrrayClass\bin\Debug\ArrrayClass.pdb
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\ArrrayClass\obj\Debug\ArrrayClass.csprojAssemblyReference.cache
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\ArrrayClass\obj\Debug\ArrrayClass.csproj.CoreCompileInputs.cache
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\ArrrayClass\obj\Debug\ArrrayClass.exe
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\ArrrayClass\obj\Debug\ArrrayClass.pdb

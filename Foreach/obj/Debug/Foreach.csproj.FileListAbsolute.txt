@@ -1,0 +1,6 @@
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\Foreach\bin\Debug\Foreach.exe
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\Foreach\bin\Debug\Foreach.pdb
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\Foreach\obj\Debug\Foreach.csprojAssemblyReference.cache
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\Foreach\obj\Debug\Foreach.exe
+C:\Users\NHAT\RiderProjects\ConsoleApplication1\Foreach\obj\Debug\Foreach.pdb
